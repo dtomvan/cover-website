@@ -36,3 +36,14 @@ plan.md
 
 ### IDE Files ###
 .idea/
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+/completion.sh
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
